@@ -5,7 +5,7 @@ int main()
 {
     int t;
     cin>>t;
-    
+    // TEST CASES
     while (t--)
     {
         string s;
